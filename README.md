@@ -1,5 +1,5 @@
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://alasgarragimov.io)
+[![MasterHead](https://webcoder.co.in/wp-content/uploads/2021/04/website.gif)](https://alasgarragimov.io)
 <h1 align="center">Hi 👋, I'm Alasgar</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/34e2391334d75246d9c86c0a470a4b5606ab4dc84fb803930bc89635b4fce9c9/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966">
