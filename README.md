@@ -1,4 +1,3 @@
-![MasterHead](https://github.com/alasgarragimov/alasgarragimov/blob/main/download.gif?raw=true)
 
 <h1 align="center">Hi 👋, I'm Alasgar</h1>
 <h3 align="center">A dedicated networking and CCNA learner from Azerbaijan</h3>
