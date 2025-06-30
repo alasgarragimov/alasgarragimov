@@ -15,11 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/ali-ragimov-15a66a253/" target="blank">
+  <a href="[https://www.linkedin.com/in/ali-ragimov-15a66a253/](https://www.linkedin.com/in/alasgar-ragimov-15a66a253/)" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
-  </a>
-  <a href="https://facebook.com/ali.rehimov.98" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="facebook" height="30" width="40" />
   </a>
 </p>
 
