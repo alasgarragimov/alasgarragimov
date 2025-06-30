@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/alasgarragimov/alasgarragimov/blob/main/mr%20robot%20Gif.gif?raw=true)](https://alasgarragimov.io)
+![MasterHead](https://github.com/alasgarragimov/alasgarragimov/blob/main/mr%20robot%20Gif.gif?raw=true)
 
 <h1 align="center">Hi 👋, I'm Alasgar</h1>
 <h3 align="center">A dedicated networking and CCNA learner from Azerbaijan</h3>
